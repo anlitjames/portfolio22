@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Diplomata+SC&family=Lobster&family=Rubik+Moonrocks&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Dancing+Script&family=Diplomata+SC&family=Lobster&family=Rubik+Moonrocks&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Dancing+Script&family=Diplomata+SC&family=Lobster&family=Playball&family=Rubik+Moonrocks&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Dancing+Script&family=Diplomata+SC&family=Lobster&family=Playball&family=Rubik+Moonrocks&family=The+Nautigal&display=swap');
+body{ 
+    text-align:center;
+    margin: 0px;
+    background-color:khaki;
+    
+
+}
+#u1{
+    margin-top: 0px;
+    font-style: oblique;
+    font-size: xx-large;
+    position: fixed;
+    background-color: azure;
+    width: 100%;
+    
+    
+    
+}
+h1{
+    font-size:xx-large;
+    color:darkred;
+    font-family:'Lobster', cursive;  
+}
+#name{
+    font-size: 50px;
+    color: darkred;
+    font-family:'Rubik Moonrocks', cursive ;
+}
+#h2{
+    background-color: black;
+    width:60px;
+    margin:auto ;
+    font-size:30px;
+    color:aquamarine;
+    font-family:'Dancing Script', cursive  ;
+
+}
+h2{
+    font-size:x-large;
+    color:darkred;
+    font-family:'Playball', cursive  ;
+}
+
+
+img{
+    margin-top:100px;
+    padding: 40px;
+    border-radius: 30%;
+     border: 2px solid goldenrod;
+
+}
+#head1{
+    color:purple ;
+    font-size: 40px;
+    text-decoration: underline ;
+}
+html{
+    scroll-behavior:smooth ;
+}
+.link{
+    display: inline;
+    padding: 50px;
+    text-shadow: 2px 2px 2px rosybrown;
+}
+#home{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1)); 
+}
+p{
+    font-family: 'The Nautigal', cursive;  
+}
+#u1 a{
+    text-decoration: none;
+}
+#book h1{
+    text-decoration: underline;
+}
+#contact a{
+    text-shadow: 2px 2px 2px rosybrown;
+}
+.link:hover{
+    font-size: x-large;
+}
+#name:hover{
+    font-style:italic;
+
+}
+img:hover{
+    margin-top: 150px;
+    
+}
+#contact h1{
+    font-size: 40px;
+    font-style: oblique;
+    color: darkorange;
+    text-decoration: underline;
+}
+#contact iframe{
+    width:100%;
+}
+#contact a{
+    text-shadow: 2px 2px 2px rosybrown;
+}
+
+#a1:hover{
+     text-shadow: 2px 2px 2px rosybrown;
+}
+#a2:hover{
+    text-shadow: 2px 2px 2px rosybrown;
+}
+#a3:hover{
+    text-shadow: 2px 2px 2px rosybrown;
+}
